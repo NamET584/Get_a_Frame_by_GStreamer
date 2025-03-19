@@ -1,0 +1,3 @@
+/mnt/d/GStreamerC++/build/CMakeFiles/GStreamerC++.dir
+/mnt/d/GStreamerC++/build/CMakeFiles/edit_cache.dir
+/mnt/d/GStreamerC++/build/CMakeFiles/rebuild_cache.dir
